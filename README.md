@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
 
-## Aim:
+## AIM:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
 
@@ -11,7 +11,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 3. DES has a 64-bit key, but only 56 bits are used for encryption (the remaining 8 bits are for parity).
 4. DES applies initial and final permutations along with 16 rounds of substitution and permutation transformations to produce ciphertext.
 
-## Program:
+## PROGRAM:
 ~~~
 #include <stdio.h>
 #include <string.h>
@@ -43,11 +43,11 @@ int main()
 
 
 
-## Output:
+## OUTPUT:
 <img width="1437" height="761" alt="image" src="https://github.com/user-attachments/assets/54b094bd-6077-4d01-8bd0-b92310c85132" />
 
 
 
-## Result:
+## RESULT:
   The program is executed successfully
 
